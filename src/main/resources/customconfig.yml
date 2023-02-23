@@ -1,0 +1,8 @@
+kihfas:
+  Quests:
+    getACACIA_BOAT:
+        amount: 1
+        progress: 0
+    getARROW:
+        amount: 5
+        progress: 0
